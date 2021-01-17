@@ -1,7 +1,7 @@
 ﻿# TerribleAssembly
  
  
-A terrible brute force implementation of in assembly that takes in 5, 5 digits numbers
+A terrible brute force implementation in assembly that takes in 5, 5 digits numbers
 from the user and then sorts them in ascending order.
 
 Be warned it is terrible. 

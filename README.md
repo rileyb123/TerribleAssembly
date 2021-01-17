@@ -6,6 +6,8 @@ from the user and then sorts them in ascending order.
 
 Be warned it is terrible. 
 
-To run yourself use Mars Mips simulator. Load the file in and assemble the code.
+To run yourself use Mars Mips simulator(or run in command line yourself). Load the file in and assemble the code.
 Run or debug the program by clicking the "Execute" tab. 
 In order to be able to execute your program, you must assemble the code first using Run->Assemble (F3). 
+
+Download Mars Here! http://courses.missouristate.edu/kenvollmar/mars/
